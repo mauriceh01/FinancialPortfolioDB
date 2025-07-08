@@ -159,7 +159,7 @@ DeFi integration and smart contract tracking
 Maurice Hazan:  mauriceh01@hotmail.com | www.LinkedIn.com/in/mohazan  
 Database Architect | Fintech Builder | Insurance & Investment Expert
 ##
-💼 Portfolio includes: InsurancePolicyDB, JobMarketDB, HealthCareDB, JobBoardDB, CollegeTranscriptDB, and this flagship: FinancialPortfolioDB
+💼 Portfolio includes: InsurancePolicyDB, JobMarketDB, HealthCareDB, RetailDB, NorthwindDB, JobBoardDB, CollegeTranscriptDB, and this flagship: FinancialPortfolioDB
 
 ⭐ Star This Project
 If you find this database design helpful or inspirational, feel free to ⭐ star it on GitHub and share with fellow analysts or developers.
